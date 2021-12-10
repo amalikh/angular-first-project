@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/db4ad28f-c76a-4575-8b62-82bfb0a2e90a/deploy-status)](https://app.netlify.com/sites/focused-hawking-096db7/deploys)
+
 # TodoList
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.11.
